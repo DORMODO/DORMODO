@@ -48,11 +48,5 @@ Check out some of my highlighted projects:
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/youssef-badr-b55748312/)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:your.ymb01072005@gmail.com)
-
----
-
-### 💡 Fun Fact
-
-I love building projects that make life easier and more enjoyable. Whether it's a productivity app or a fun game, I'm always up for a new challenge!
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:ymb01072005@gmail.com)
 
