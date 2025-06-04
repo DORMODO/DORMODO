@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Youssef Badr
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&width=435&lines=Software+Engineer+%F0%9F%92%BB;Web+Developer+%F0%9F%93%90;Open+Source+Enthusiast+%F0%9F%92%A1)](https://github.com/DORMODO)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1&color=F5F5F5&center=true&vCenter=true&width=1000&lines=Software+Engineer;Web+Developer;Open+Source+Contributor)](https://github.com/DORMODO)
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering
-- 💼 Passionate about **Software Engineering** and **Web Development**
-- ⚡ Fun fact: I enjoy tackling coding challenges and exploring new technologies!
+- 🎓 Computer Engineer
+- 💼 Interested in **Software Engineering** and **Web Development**
+- ⚡ I enjoy tackling coding challenges and exploring new technologies!
 
 ---
 
@@ -34,19 +34,9 @@
 
 ---
 
-### 📌 Pinned Projects
-
-Check out some of my highlighted projects:
-
-- [todo-app-main](https://github.com/DORMODO/todo-app-main): A classic todo app with dark/light theme toggle and drag & drop reordering.
-- [LaslesVPN](https://github.com/DORMODO/LaslesVPN): A responsive VPN landing page built with SCSS.
-- [Task_Shell_Simulator](https://github.com/DORMODO/Task_Shell_Simulator): A C-based task shell simulator.
-- [health-club-management-system](https://github.com/DORMODO/health-club-management-system): A Java-based application for managing health club operations.
-
----
-
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/youssef-badr-b55748312/)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:ymb01072005@gmail.com)
+<a href="https://www.linkedin.com/in/youssef-badr-b55748312/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
