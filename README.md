@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Youssef Badr
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&pause=1&color=F5F5F5&center=true&vCenter=true&width=1000&lines=Software+Engineer;Web+Developer;Open+Source+Contributor)](https://github.com/DORMODO)
-
----
-
 ### 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
