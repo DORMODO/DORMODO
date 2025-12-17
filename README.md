@@ -2,9 +2,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 💼 Interested in **Software Engineering** and **Web Development**
-- ⚡ I enjoy tackling coding challenges and exploring new technologies!
+- 🎓 Software Engineering–focused CS student
+- 💼 Aspiring Software Engineer | Full-Stack Web Developer
+- ⚡ I enjoy building real-world systems and writing clean, scalable code
 
 ---
 
@@ -13,14 +13,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+### 🌱 Currently Learning
+- Advanced **Spring Boot** & RESTful API design
+- System Design fundamentals
+- Clean Architecture & Design Patterns
 
 ---
 
