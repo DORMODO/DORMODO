@@ -17,7 +17,6 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
@@ -26,12 +25,6 @@
 - Advanced **Spring Boot** & RESTful API design
 - System Design fundamentals
 - Clean Architecture & Design Patterns
-
----
-
-### 📈 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DORMODO&show_icons=true&theme=radical)
 
 ---
 
